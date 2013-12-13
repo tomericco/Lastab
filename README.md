@@ -8,7 +8,7 @@ Chrome extension for browsing last tabs in Ctrl+tab style.
 * Click on Extensions tab on the left
 * Scroll down to the bottom
 * Click on Keyboard shortcuts
-* Define the keyboard shortcut you want
+* Define the keyboard shortcut you want under Lastab > Browse backwards
 
 Now on each time you will enter this shortcut, last tab will be shown.
 

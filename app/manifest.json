@@ -25,13 +25,6 @@
                 "mac": "Alt+U"
             },
             "description": "Browse backwards"
-        },
-        "switch-tab-forward": {
-            "suggested_key": {
-                "default": "Alt+U",
-                "mac": "Alt+U"
-            },
-            "description": "Browse forward"
         }
     }
 }
