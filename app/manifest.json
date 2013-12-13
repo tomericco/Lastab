@@ -1,0 +1,37 @@
+{
+    "name": "Lastab",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "Browse last tabs in Ctrl+tab style.",
+    "icons": {
+
+    },
+    "default_locale": "en",
+    "background": {
+        "scripts": [
+            "scripts/background.js"
+        ]
+    },
+    "page_action": {
+
+    },
+    "permissions": [
+        "tabs"
+    ],
+    "commands": {
+        "switch-tab-backwards": {
+            "suggested_key": {
+                "default": "Alt+U",
+                "mac": "Alt+U"
+            },
+            "description": "Browse backwards"
+        },
+        "switch-tab-forward": {
+            "suggested_key": {
+                "default": "Alt+U",
+                "mac": "Alt+U"
+            },
+            "description": "Browse forward"
+        }
+    }
+}
